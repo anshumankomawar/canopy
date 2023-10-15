@@ -1,6 +1,6 @@
-# Docs
+# Canopy
 
-Docs is a versatile and easy-to-use service for creating comprehensive public API documentation for your services. With Docs, you can streamline the process of documenting your APIs, making it easier for developers to understand and utilize your services. This README provides an overview of the project and its core Rust modules: auth, database, api, and search.
+Canopy is a versatile and easy-to-use service for creating comprehensive public API documentation for your services. With Docs, you can streamline the process of documenting your APIs, making it easier for developers to understand and utilize your services. This README provides an overview of the project and its core Rust modules: auth, database, api, and search.
 
 ## Features
 
@@ -58,18 +58,13 @@ The `search` module enhances the user experience by providing robust search capa
 
 To get started with Docs, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/docs.git`
+1. Clone the repository: `git clone https://github.com/anshumankomawar/canopy.git`
 2. Install Rust and dependencies.
 3. Set up and configure the `auth`, `database`, `api`, and `search` modules as needed.
 4. Build and run the service.
 5. Access the documentation portal in your web browser.
 
 For detailed installation and configuration instructions, refer to the respective module README files.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to Docs, please read our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
 
 ### Github Guidlines
 
@@ -85,12 +80,4 @@ Reformat: Refactor of formatting, (e.g., omit whitespace).
 Optimise: Refactor of performance, (e.g., speed up code).
 Document: Refactor of documentation, (e.g., help files).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need assistance, feel free to reach out to our team at [contact@docs.com](mailto:contact@docs.com).
-
-Happy documenting with Docs! 🚀
+Happy documenting with Canopy! 🚀
