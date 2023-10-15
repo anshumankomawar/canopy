@@ -4,5 +4,6 @@ members = [
   "api",
   "auth",
   "database",
+  "models",
   "search"
 ]

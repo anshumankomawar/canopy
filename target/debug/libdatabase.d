@@ -1,1 +1,1 @@
-/Users/anshumankomawar/code/anshumankomawar/docs/target/debug/libdatabase.rlib: /Users/anshumankomawar/code/anshumankomawar/docs/database/src/lib.rs
+/Users/ujwal/Programming/canopy/target/debug/libdatabase.rlib: /Users/ujwal/Programming/canopy/database/src/lib.rs

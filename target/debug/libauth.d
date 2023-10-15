@@ -1,1 +1,1 @@
-/Users/anshumankomawar/code/anshumankomawar/docs/target/debug/libauth.rlib: /Users/anshumankomawar/code/anshumankomawar/docs/auth/src/lib.rs
+/Users/ujwal/Programming/canopy/target/debug/libauth.rlib: /Users/ujwal/Programming/canopy/auth/src/lib.rs
